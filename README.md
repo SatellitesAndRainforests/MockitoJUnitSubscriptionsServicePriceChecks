@@ -18,8 +18,8 @@ When you are finished, make sure you provide a git-bundle, so we can see your lo
 
 | Subscription | Price £      |
 | -----------  | ----------- |
-| ENTERTAINMENT       | 9.99       |
 | SPORTS    | 19.99        |
+| ENTERTAINMENT       | 9.99       |
 | KIDS      | 6.99  |
 
 
