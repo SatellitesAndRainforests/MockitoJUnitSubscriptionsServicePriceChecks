@@ -1,0 +1,2 @@
+# MockitoJUnitSubscriptionsServicePriceChecks
+for:   Sky.com
